@@ -10,4 +10,4 @@
 
 #### Os requisitos técnicos para executar esse notebook pelo jupyter onde previamente deverá ter os pacotes pandas e numpy instalados no ambiente do interpretador Python. Na mesma pasta desse notebook deverão estar o arquivo "Seleção de Celular.xlsx" e o pacote ElectreyFamily.
 
-#### Para a instalação, fazer o download, execuatar o unzip que disponibilizará a pasta Selecao-de-Celulares-main. Próximo passo é acessar o notebook através do Jupyter.
+#### Para a instalação, fazer o download e execuatar o unzip que disponibilizará a pasta Selecao-de-Celulares-main. Próximo passo é acessar o notebook através do Jupyter.
